@@ -1,6 +1,6 @@
 # Data Structure and Algorithms Resources
 
-##[Yangshun's Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
+##Yangshun's Tech Interview Guide
     - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
     - [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
     - [How to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) for coding interviews
@@ -9,6 +9,7 @@
     - [Step-by-step Software Engineer resume guide](https://www.techinterviewhandbook.org/resume/) to prepare a FAANG-ready resume
     - [Behavioral questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/) asked by the top tech companies
     - [Front end interview preparation](https://www.frontendinterviewhandbook.com)
+    -[Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
     
 - ### Arrays
     - [ ] Videos:
