@@ -1,6 +1,6 @@
 # Data Structure and Algorithms Resources
 
-#Yangshun's Tech Interview Guide
+- ### Tech Interview Guide Quick Links
     - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
     - [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
     - [How to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) for coding interviews
