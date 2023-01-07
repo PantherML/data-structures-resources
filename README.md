@@ -1,4 +1,4 @@
-# Data Structure and Algorithm Resources
+# Data Structure and Algorithms Resources
 
 - ### Arrays
     - Implement an automatically resizing vector.
