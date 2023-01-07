@@ -10,7 +10,8 @@
     - [Behavioral questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/) asked by the top tech companies
     - [Front end interview preparation](https://www.frontendinterviewhandbook.com)
     -[Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
-    
+
+- ### Coding Interview Data Structure and Algorithm Resources
 - ### Arrays
     - [ ] Videos:
         - [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
