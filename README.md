@@ -546,3 +546,5 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 - ### Sources
     -   [Haris's Coding Interview University](https://github.com/haris989/coding-interview-university)
     -   [Yangshun's Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
+    
+For free interesting classes, would highly recommend [Kaggle](https://www.kaggle.com/), [Coursera](https://www.coursera.org/), and [MIT OpenCourseWare](https://ocw.mit.edu/) :heart:
