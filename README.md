@@ -9,7 +9,8 @@
     - [Step-by-step Software Engineer resume guide](https://www.techinterviewhandbook.org/resume/) to prepare a FAANG-ready resume
     - [Behavioral questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/) asked by the top tech companies
     - [Front end interview preparation](https://www.frontendinterviewhandbook.com)
-    -[Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
+    - [Tech Interview Guide](https://github.com/yangshun/tech-interview-handbook)
+    - [Common Python Data Structures & Algorithms](https://github.com/prabhupant/python-ds)
 
 # Coding Interview Data Structure and Algorithm Resources
 - ### Arrays
